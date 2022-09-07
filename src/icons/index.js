@@ -1,0 +1,5 @@
+import React from 'react'
+import Svg, { 
+    Circle, Ellipse, G, Text, TSpan, TextPath, Path, Polygon, Polyline, Line, Rect, Use, Image, Symbol, Defs, LinearGradient, RadialGradient, Stop, ClipPath, Pattern, Mask 
+  } from 'react-native-svg'
+export const Battery = ()=> <Svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><Rect x="32" y="144" width="400" height="224" rx="45.7" ry="45.7" fill="none" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10" stroke-width="32"/><Rect x="85.69" y="198.93" width="292.63" height="114.14" rx="4" ry="4" stroke="currentColor" stroke-linecap="square" stroke-miterlimit="10" stroke-width="32"/><Path fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="32" d="M480 218.67v74.66"/></Svg>
